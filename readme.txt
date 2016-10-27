@@ -1,5 +1,2 @@
-Ссылка на пример:
+РЎСЃС‹Р»РєР° РЅР° РїСЂРёРјРµСЂ:
 http://university.netology.ru/u/abaiuly/lesson-1.2/
-
-Ссылка на код в песочнице:
-http://codepad.org/KVgPzMfQ
